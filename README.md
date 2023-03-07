@@ -9,5 +9,6 @@ Information of the various breeders is listed below.
 | TSLBreeder         | 230,511             | 3916 x 3600         |
 | TSLBreederImproved | 35,829              | 1443 x 1705         |
 | TSLBreeder3        | 26,428              | 1293 x 1596         |
+| TSLRakeBreeder     | 32,274              | 1332 x 1903         |
 | TSLBreeder4        | 18,593              | 3263 x 256          |
 | TSLBreeder4.1      | 18,378              | 3234 x 256          |
