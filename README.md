@@ -13,3 +13,4 @@ Information of the various breeders is listed below.
 | TSLBreeder4        | 18,593              | 3263 x 256          | $\frac{5}{9408}t^2$ |
 | TSLBreeder4.1      | 18,378              | 3234 x 256          | $\frac{5}{9408}t^2$ |
 | TSLBreeder5        | 16,457              | 2849 x 208          | $\frac{5}{4704}t^2$ |
+| TSLBreeder5.1      | 16,090              | 2816 x 208          | $\frac{5}{4704}t^2$ |
